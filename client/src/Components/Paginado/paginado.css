@@ -1,0 +1,21 @@
+
+.barra{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra ul li{
+    display: inline-block;
+    border: 10px;
+    
+    
+}
+
+.barra ul li a:hover{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(175, 186, 196);
+}
